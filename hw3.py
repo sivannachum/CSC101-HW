@@ -200,5 +200,3 @@ def drawBonusSpiralScene():
 
     # finished
     turtle.done()
-
-drawBonusSpiralScene()

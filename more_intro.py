@@ -1,6 +1,5 @@
 """
 CS 101 - Homework 2
-Answer Key
 """
 
 # Part 1

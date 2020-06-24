@@ -1,6 +1,5 @@
 """
 CS 101 - Homework 5
-Answer Key
 """
 import turtle
 

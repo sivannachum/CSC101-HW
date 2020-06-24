@@ -1,6 +1,5 @@
 """
 CS 101 - Homework 4
-Answer Key
 """
 
 # PRELAB

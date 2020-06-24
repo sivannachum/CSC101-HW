@@ -1,6 +1,5 @@
 """
 CS 101 - Homework 7
-Answer Key
 """
 from PIL import Image
 

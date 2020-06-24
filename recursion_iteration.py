@@ -152,8 +152,7 @@ def factors(n):
 
     return returnList
 
-# I didn't do BONUS 1 or 2
-# BONUS 3
+# BONUS
 def sumNested(L):
     """
     Takes in a nested list of integers and returns the sum of all the lists.

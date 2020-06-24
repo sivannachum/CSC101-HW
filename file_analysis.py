@@ -1,6 +1,5 @@
 """
 CS 101 - Homework 8
-Answer Key
 """
 import string
 
@@ -51,11 +50,3 @@ def analyzeFile(filename):
     f.close()
             
     return (mostCommonWord, leastCommonWord, longestWord, shortestWord)
-
-# I'm not doing this function because I don't want to sign up for an account
-def weather(zipcode):
-    """
-    Takes a string as an input parameter and treats it as a correct 5-digit zip code,
-    looks up the weather for that zipcode, and returns the current temperature at that zipcode
-    """
-    pass
